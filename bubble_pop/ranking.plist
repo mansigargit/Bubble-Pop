@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>playerName</key>
+		<string>Joe</string>
+		<key>highestScore</key>
+		<string>20</string>
+	</dict>
+	<dict>
+		<key>playerName</key>
+		<string>Tom</string>
+		<key>highestScore</key>
+		<string>18</string>
+	</dict>
+	<dict>
+		<key>playerName</key>
+		<string>Sam</string>
+		<key>highestScore</key>
+		<string>16</string>
+	</dict>
+	<dict>
+		<key>playerName</key>
+		<string>Malisa</string>
+		<key>highestScore</key>
+		<string>10</string>
+	</dict>
+	<dict>
+		<key>playerName</key>
+		<string>Michael</string>
+		<key>highestScore</key>
+		<string>8</string>
+	</dict>
+	<dict>
+		<key>playerName</key>
+		<string>Miler</string>
+		<key>highestScore</key>
+		<string>2</string>
+	</dict>
+</array>
+</plist>

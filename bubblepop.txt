@@ -1,0 +1,4 @@
+1)Gengeraing a random of positions that bubbles should be at and then .the number of bubbles to be created.
+2)Being used to store the point when a bubble is tapped.
+3)Creating random a color for a bubble according the probability for appearance of differenct color bubbles
+.Probability of appearance of different color bubbles.
